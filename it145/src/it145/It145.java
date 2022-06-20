@@ -7,7 +7,7 @@ package it145;
 
 /**
  *
- * @author zzvj1
+ * @author Jordan Colbert
  */
 public class It145 {
 
@@ -15,7 +15,7 @@ public class It145 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+
     }
     
 }
