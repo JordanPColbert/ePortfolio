@@ -6,7 +6,7 @@
 package it145;
 /**
  *
- * @author 1559907_snhu
+ * @author Jordan Colbert
  */
 
 import java.util.Scanner;
