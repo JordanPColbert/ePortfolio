@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EventApp</string>
+    <string name="loginscreen">Event Tracker Log In:</string>
+    <string name="loginbuttontext">Log in</string>
+    <string name="registerbuttontext">Register</string>
+    <string name="create_event">Create event</string>
+    <string name="add_events">Add Events</string>
+    <string name="view_events">View Events</string>
+    <string name="update_events">Update Events</string>
+    <string name="delete_events">Delete Events</string>
+    <string name="enter_a_title_for_the_event">Enter a title for the event</string>
+    <string name="enter_a_short_description">Enter a short description</string>
+    <string name="enter_the_time">Enter the time</string>
+    <string name="enter_the_current_event_id">Enter the current event ID</string>
+    <string name="back_to_menu">Back to menu</string>
+    <string name="submit_changes">Submit changes</string>
+</resources>
