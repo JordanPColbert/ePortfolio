@@ -7,7 +7,7 @@ package it145;
 
 /**
  *
- * @author 1559907_snhu
+ * @author Jordan Colbert
  */
 public class MD5Digest {
     
