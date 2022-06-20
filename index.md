@@ -1,5 +1,6 @@
 ## Jordan Colbert's Portfolio
 This is a collection of artifacts to demonstrate my growth throughout my tenure at Southern New Hampshire University's Computer Science department. 
+
 [A reflection and code review are included.](https://github.com/JordanPColbert/ePortfolio)
 
 ### Software Design Example
