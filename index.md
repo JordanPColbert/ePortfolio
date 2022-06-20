@@ -12,7 +12,7 @@ This is a representation on developing from a standpoint of effective structure 
 
 [Structure code and narrative.](https://github.com/JordanPColbert/ePortfolio/tree/Data-Structure)
 
-## Databases Example
+### Databases Example
 This example demonstrates my ability to work with and manipulate databases effectively.
 
 [Database code and narrative.](https://github.com/JordanPColbert/ePortfolio/tree/Databases)
