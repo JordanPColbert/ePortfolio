@@ -17,3 +17,8 @@ This is a representation on developing from a standpoint of effective structure 
 This example demonstrates my ability to work with and manipulate databases effectively.
 
 [Database code and narrative.](https://github.com/JordanPColbert/ePortfolio/tree/Databases)
+
+### Embedded Software Example
+School project that modified Texas Instruments stock code to configure a microcontroller to function as a thermostat.
+
+[Embedded software code]
