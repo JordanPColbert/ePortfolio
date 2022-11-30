@@ -21,4 +21,4 @@ This example demonstrates my ability to work with and manipulate databases effec
 ### Embedded Software Example
 School project that modified Texas Instruments stock code to configure a microcontroller to function as a thermostat.
 
-[Embedded software code](https://github.com/JordanPColbert/ePortfolio/tree/embedded)
+[Embedded software code.](https://github.com/JordanPColbert/ePortfolio/tree/embedded)
